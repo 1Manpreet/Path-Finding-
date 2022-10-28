@@ -1,5 +1,4 @@
 # Search algorithms visualizations.
-Inspired by http://www.redblobgames.com/
 
 ## Depth First Search
 ![DepthFirstSearch](https://github.com/kbrizov/Pathfinding-Algorithms/blob/master/Assets/Gifs/Depth%20First%20Search.gif)
