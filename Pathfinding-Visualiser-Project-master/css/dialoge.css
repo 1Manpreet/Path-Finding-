@@ -11,6 +11,7 @@
     width: 100%;
     height: 100vh;
     background: #00000014;
+    overflow-y: auto;
 }
 
 .dialoge-surface {
@@ -45,6 +46,7 @@
     color: #5f6368;
     padding: 24px 24px;
     line-height: 27px;
+    overflow-y: auto;
 }
 
 .dialoge-title {
